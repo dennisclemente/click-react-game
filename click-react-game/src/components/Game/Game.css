@@ -1,0 +1,32 @@
+.nav{
+	background-color: #684d4d;
+	height: 10px;
+	width: 100%;
+	position: fixed;
+	text-align: center;
+}
+#score{
+	background-color: #684d4d;
+	border: 1px solid;
+	padding: 20px 0;
+	color: white;
+
+}
+#title-container{
+	height: 500px;
+	background-image: url("./memback.jpeg");
+	text-align: center;
+	min-width: 555px;
+	border-bottom: 5px solid #f44242;
+}
+#title-content{
+	margin-top: 120px;
+}
+h1{
+	font-family: 'Ranchers', cursive;
+	font-size: 80px;
+}
+p{
+	font-family: 'Ranchers', cursive;
+	font-size: 30px;
+}
